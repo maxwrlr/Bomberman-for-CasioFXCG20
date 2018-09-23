@@ -7,7 +7,7 @@ Shift - Bombe platzieren\
 Exit - Spiel pausieren
 
 
-# Bomberman for Casio fx-CG20
+# Bomberman for Casio fx-CG 20
 I developed this game for my Casio fx-CG 20 calculator when I was a student. Feel free to copy the ```Bomberman.g3a``` file into the root directory of your calculator if you want to play the game yourself.
 
 **Controls**\
