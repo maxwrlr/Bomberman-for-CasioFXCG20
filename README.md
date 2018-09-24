@@ -1,4 +1,4 @@
-# Bomberman für den Casio fx-CG 20
+# Bomberman für den Casio fx-CG ..
 Ich habe dieses Spiel während meiner Schulzeit für meinen Casio fx-CG 20 Grafiktaschenrechner programmiert. Wer Interesse hat das Spiel zu spielen kann die ```Bomberman.g3a``` Datei einfach in das Stammverzeichnis des Taschenrechners kopieren.
 
 **Steuerung**\
@@ -7,7 +7,7 @@ Shift - Bombe platzieren\
 Exit - Spiel pausieren
 
 
-# Bomberman for Casio fx-CG 20
+# Bomberman for Casio fx-CG ..
 I developed this game for my Casio fx-CG 20 calculator when I was a student. Feel free to copy the ```Bomberman.g3a``` file into the root directory of your calculator if you want to play the game yourself.
 
 **Controls**\
